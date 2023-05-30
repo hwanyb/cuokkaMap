@@ -213,7 +213,7 @@
   - [기능정의서](https://docs.google.com/spreadsheets/d/1Oh5I-DGGX1SLPFNMgecOs2KpDtbfQ2f8v4qDHnx1xEQ/edit#gid=1546196767)
   - [스토리보드](https://www.figma.com/file/wfKrHodz7anE7L41Vd8lA7/cuokkamap?node-id=0%3A1&t=SZmudilhf3yMlK9I-1)
   - [QA](https://docs.google.com/spreadsheets/d/1dLpoD8P6fjLT_1iVB1ohjI1t60eZmRHDu2-FJA5tInU/edit#gid=974378565)
-  - [API 명세서](https://silent-spear-5bc.notion.site/API-4fb26d8968e0495f8005ed6b81ad0596)
+  - [API 명세서](https://yana-sprout-5bc.notion.site/API-4fb26d8968e0495f8005ed6b81ad0596)
 ## 📂 디렉토리 구조
 ```
 cuokkamap
